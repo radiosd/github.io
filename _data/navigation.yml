@@ -1,0 +1,19 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Products"
+    url: /products
+#    children:
+#    - title "Training"
+#      url: /pages/training
+#    - title: "Design"
+#      url: /pages/design
+#    - title: "Consulting"
+#      url: /page/consulting
+  - title: "Publications"
+    url: /publications/
+  - title: "Downloads"
+    url: /downloads/
+#  - title: "External Link"
+#    url: https://google.com
+#    target: _blank
