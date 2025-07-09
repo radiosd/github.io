@@ -11,7 +11,7 @@ Take a look at the [downloads](/downloads) section for links to historic publica
 my own [publications](/publications) and browse the blog posts for history and background to this site.
 
 I hope you have found this site interesting and found what you were looking for. 
-If not, then email me (r.ranson@ieee.org) your questions I will try to answer them.
+If not, then email me (richard@radiosystemdesign.com) your questions I will try to answer them.
 
 regards Richard
 
