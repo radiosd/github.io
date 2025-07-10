@@ -31,7 +31,7 @@ twitter_username: none
 github_username: radiosd
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes
 minimal_mistakes_skin: "aqua" # "default", "air", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # not sure what this does?
